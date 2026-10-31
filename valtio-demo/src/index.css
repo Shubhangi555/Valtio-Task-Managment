@@ -1,3 +1,0 @@
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0 }
-body { background: #0e1117; overflow: hidden }
-#root { height: 100vh; display: flex; flex-direction: column }
